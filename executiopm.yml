@@ -14,6 +14,6 @@ url: http://blazedemo.com/
 -label: reserve
 method: POST
 url: http://blazedemo.com/reserve.php
-boody:
+body:
 fromPort: Paris
 toPort: Buenos Aires
